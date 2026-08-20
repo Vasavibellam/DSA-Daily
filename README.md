@@ -20,16 +20,19 @@ Python solutions for LeetCode and NeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vasavibellam/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasavibellam/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Vasavibellam/DSA-Daily/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vasavibellam/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vasavibellam/DSA-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasavibellam/DSA-Daily/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vasavibellam/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Vasavibellam/DSA-Daily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasavibellam/DSA-Daily/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -39,5 +42,6 @@ Python solutions for LeetCode and NeetCode problems.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vasavibellam/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vasavibellam/DSA-Daily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
