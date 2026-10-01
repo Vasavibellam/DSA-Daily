@@ -42,6 +42,15 @@ Python solutions for LeetCode and NeetCode problems.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vasavibellam/DSA-Daily/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vasavibellam/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vasavibellam/DSA-Daily/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vasavibellam/DSA-Daily/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vasavibellam/DSA-Daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
