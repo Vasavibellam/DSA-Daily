@@ -23,6 +23,7 @@ Python solutions for LeetCode and NeetCode problems.
 | [0049-group-anagrams](https://github.com/Vasavibellam/DSA-Daily/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasavibellam/DSA-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Vasavibellam/DSA-Daily/tree/master/0217-contains-duplicate) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vasavibellam/DSA-Daily/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
